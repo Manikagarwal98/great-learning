@@ -153,6 +153,12 @@ label{
   width: 400px;
   background:#196ae5;
 }
+@media (max-width:600px) {
+  .blue_line{
+    width: 60%;
+  }
+}
+
 .heading{
     padding-top: 60px;
     font-size: xx-large;
