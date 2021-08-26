@@ -27,10 +27,15 @@ body{
    color: white;
    margin: 0px;
 }
+nav{
+     display: flex;
+    justify-content: space-between;
+    margin: 0% 2%;
+}
 nav>a>img{
     margin:25px;
     margin-bottom: 0px;
-    width: 250px;
+    width: 300px;
       height: auto;
 }
 .container{
